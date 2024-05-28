@@ -1,5 +1,4 @@
 import torch
-from bigram import *
 from gpt import *
 
 device = torch.device('mps')
