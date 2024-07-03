@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+
+gpt-dev.ipynb
+Attention Mechanism (scratch).ipynb
+
+bigram.py
+
+model.pt
+model_1.pt
